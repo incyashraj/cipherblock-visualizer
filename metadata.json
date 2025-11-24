@@ -1,0 +1,5 @@
+{
+  "name": "CipherBlock Visualizer",
+  "description": "An interactive educational tool to visualize how block ciphers (AES) encrypt and decrypt data using keys and initialization vectors.",
+  "requestFramePermissions": []
+}
